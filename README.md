@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @M-Ismail
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on Data Science
+- 📫 How to reach me ismailkhan98298@gmail.com
